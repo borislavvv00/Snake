@@ -1,0 +1,4 @@
+﻿  SnakeSource.cpp
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\snake2018\snake2018\snakesource.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake2018.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\CppProjects\Snake2018\Debug\Snake2018.exe
+  Snake2018.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\CppProjects\Snake2018\Debug\Snake2018.pdb (Full PDB)
