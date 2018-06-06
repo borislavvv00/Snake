@@ -24,8 +24,8 @@ void Snake::SnakeEatingSuperFood()
 	if (headX == aFood.superFoodX && headY == aFood.superFoodY)
 	{
 		score += 10;
-		aFood.superFoodX = rand() % (HIGH - 2) + 1;
-		aFood.superFoodY = rand() % (WIDTH - 2) + 1;
+		aFood.superFoodX = rand() % (HIGH - 4) + 2;
+		aFood.superFoodY = rand() % (WIDTH - 4) + 2;
 		aFood.timeBeforeSupperFood = 5;
 	}
 }
