@@ -1,7 +1,7 @@
 # Snake
-My version of snake\
+My version of snake.
 
-This is the clasic snake. Player move the snake with (a - left, d - rigth, w - up, s - down) and try to catch food.\
+This is the classic snake. Player move the snake with (a - left, d - right, w - up, s - down) and try to catch food.\
 In every five normal foods is spawn one supper food.
 
 
